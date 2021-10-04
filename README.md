@@ -1,4 +1,4 @@
-# html_parser
+# html_widget
 
 A Flutter package to display html document.
 

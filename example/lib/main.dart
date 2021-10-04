@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:html_parser/html_parser.dart';
+import 'package:html_parser/html_widget.dart';
 
 void main() {
   runApp(MyApp());

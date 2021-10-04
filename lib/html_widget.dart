@@ -1,4 +1,4 @@
-library html_parser;
+library html_widget;
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
