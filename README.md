@@ -8,9 +8,7 @@ This package provides a widget to display html document in a Flutter app.
 
 You can use it like this:
 
-///{@tool snippet} ///
-/// ```dart /// List<Widget> richText = MyHtmlParser.parseHtmlToListOfTextWidgets(htmlDoc); /// ```
-/// {@end-tool}
+```dart List<Widget> richText = MyHtmlParser.parseHtmlToListOfTextWidgets(htmlDoc); ```
 
 This project is a starting point for a Dart
 [package](https://flutter.dev/developing-packages/), a library module containing code that can be
